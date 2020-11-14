@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-=======
-hello git dev dev
-222222
->>>>>>> eb0e459b0aacc9b01ddc6e49e2bd3899b18fa699
